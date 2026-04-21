@@ -40,7 +40,6 @@ const niko = {
 
 <div align="center">
 
-<img src="https://github-readme-quotes.herokuapp.com/quote?theme=tokyonight&quoteCategory=programming" />
 
 <br /><br />
 
